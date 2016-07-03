@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio12_LanzarSegundaActivity(Parametros)</string>
+    <string name="button">ver</string>
+    <string name="button2">finalizar</string>
+
+    <string name="tv1">Ingrese un sitio web:</string>
+</resources>
